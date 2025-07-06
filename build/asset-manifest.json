@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tolga/static/css/main.3e176062.css",
-    "main.js": "/tolga/static/js/main.efa39df8.js",
+    "main.js": "/tolga/static/js/main.9e5adc24.js",
     "index.html": "/tolga/index.html",
     "main.3e176062.css.map": "/tolga/static/css/main.3e176062.css.map",
-    "main.efa39df8.js.map": "/tolga/static/js/main.efa39df8.js.map"
+    "main.9e5adc24.js.map": "/tolga/static/js/main.9e5adc24.js.map"
   },
   "entrypoints": [
     "static/css/main.3e176062.css",
-    "static/js/main.efa39df8.js"
+    "static/js/main.9e5adc24.js"
   ]
 }

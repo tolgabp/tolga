@@ -12,7 +12,7 @@ export default function Navbar({ darkMode, setDarkMode }) {
       <div className="text-2xl font-extrabold tracking-tight text-accent dark:text-accent-light select-none">
         <span className="mr-2">&#9673;</span> Dev Portfolio
       </div>
-      <div className="flex gap-6">
+        {/*<div className="flex gap-6">
         {NAV_LINKS.map(link => (
           <a
             key={link.name}
@@ -22,7 +22,7 @@ export default function Navbar({ darkMode, setDarkMode }) {
             {link.name}
           </a>
         ))}
-      </div>
+      </div>*/}
       <button
         aria-label="Toggle dark mode"
         className="ml-4 p-2 rounded-full bg-gray-200 dark:bg-gray-700 hover:bg-accent/10 dark:hover:bg-accent-dark/20 focus:outline-none focus-visible:ring-2 focus-visible:ring-accent transition-colors"
