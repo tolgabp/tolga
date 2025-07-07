@@ -7,7 +7,6 @@ export default function HomeSection() {
         <h1 className="text-4xl md:text-6xl font-extrabold mb-2 bg-gradient-to-r from-accent via-accent-light to-accent-dark bg-clip-text text-transparent text-center">
           Hi, I'm Tolga Baris Pinar
         </h1>
-        <span className="inline-block mb-4 px-3 py-1 rounded-full bg-secondary/20 text-secondary-dark dark:bg-secondary-dark/30 dark:text-secondary-light text-xs font-semibold tracking-widest uppercase">Full-Stack Developer</span>
         <p className="text-lg md:text-2xl text-gray-700 dark:text-gray-300 mb-8 text-center font-medium">
           A passionate developer building modern web experiences.
         </p>
