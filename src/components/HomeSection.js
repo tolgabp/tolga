@@ -4,8 +4,8 @@ export default function HomeSection() {
   return (
     <section id="home" className="py-16 flex flex-col items-center justify-center min-h-[60vh]">
       <div className="bg-white/70 dark:bg-gray-800/80 rounded-2xl shadow-lg px-8 py-10 flex flex-col items-center w-full max-w-2xl">
-        <h1 className="text-4xl md:text-6xl font-extrabold mb-2 bg-gradient-to-r from-accent via-accent-light to-accent-dark bg-clip-text text-transparent text-center">
-          Hi, I'm Tolga Baris Pinar
+        <h1 className="text-4xl md:text-6xl font-extrabold pb-4 mb-2 bg-gradient-to-r from-accent via-accent-light to-accent-dark bg-clip-text text-transparent text-center">
+          Hi, I'm Tolga.
         </h1>
         <p className="text-lg md:text-2xl text-gray-700 dark:text-gray-300 mb-8 text-center font-medium">
           A passionate developer building modern web experiences.

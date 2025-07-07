@@ -1,10 +1,10 @@
 import React from "react";
 
-const NAV_LINKS = [
-  { name: "Home", href: "#home" },
-  { name: "Projects", href: "#projects" },
-  //{ name: "About", href: "#about" },
-];
+// const NAV_LINKS = [
+//   { name: "Home", href: "#home" },
+//   { name: "Projects", href: "#projects" },
+//   //{ name: "About", href: "#about" },
+// ];
 
 export default function Navbar({ darkMode, setDarkMode }) {
   return (
